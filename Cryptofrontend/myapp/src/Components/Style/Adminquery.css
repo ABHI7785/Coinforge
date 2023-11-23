@@ -1,0 +1,20 @@
+table.tab1.table {
+    background:orchid;
+    width: 92%;
+    font-size: 12px;
+    border: 1px solid burlywood;
+    font-family: fantasy;
+    margin-left: -33px;
+    transition: background-color 0.3s;
+}
+
+.adminque {
+    background: plum;
+}
+table.tab1.table:hover {
+    background: lightblue; 
+}
+table.tab1.table th {
+    font-size: 19px;
+    color: darkblue;
+}

@@ -1,0 +1,47 @@
+img#image4 {
+    width: 447px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 48px;
+    margin-top: 115px;
+    transition: transform 0.2s ease-in-out;
+}
+img#image4:hover {
+    transform: scale(1.1); 
+}
+.flatparent {
+    display: flex;
+
+}
+
+ul.flalist {
+    list-style: none;
+    font-family: cursive;
+    line-height: 28px;
+    font-size: 15px;
+    color: aqua;
+}
+
+ul.flalist span {
+    color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    transition: color 0.2s ease-in-out;
+}
+ul.flalist span:hover {
+    color: royalblue; 
+}
+
+.flatform h2 {
+    font-size: 58px;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+
+.flatform {
+    background: black;
+    margin-top: 19px;
+}

@@ -1,0 +1,84 @@
+img.card-img-top.apiimage {
+    width: 126px;
+    height: 127px;
+    margin-left: 72px;
+    margin-top: 11px;
+  }
+  
+  .apicall input {
+    width: 50%;
+    text-align: center;
+    margin-left: 306px;
+    height: 50px;
+    font-size: 28px;
+    font-family: cursive;
+    font-weight: 700;
+    margin-top: 21px;
+    margin-bottom: 12px;
+    border-radius: 18px;
+  }
+  
+  .apicall {
+    background: aliceblue;
+    margin-top: 42px;
+  }
+  h2.namme {
+    text-align: center;
+    font-family: cursive;
+    color: aqua;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  p.symb {
+    text-align: center;
+    color: brown;
+    font-family: cursive;
+    font-weight: 800;
+  }
+  
+  p.same {
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    font-size: 15px;
+  }
+  
+  .api.card {
+    background: black;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    margin-left: 6px;
+  }
+  
+  button.api1.btn.btn-primary {
+    width: 96%;
+    background:#d2d2a9;
+    color: azure;
+    font-family: cursive;
+    font-size: 17px;
+    border-radius: 10px;
+    font-weight: 800;
+  }
+  
+  button.api1.btn.btn-primary:hover{
+    background-color: cadetblue;
+  }
+  .api.card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
+  }
+  
+  
+  
+  p.same1 {
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    font-size: 15px;
+  }
+  
+  .card-content {
+    height: 330px;
+  }

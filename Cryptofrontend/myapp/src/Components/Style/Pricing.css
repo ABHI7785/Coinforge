@@ -1,0 +1,199 @@
+.priceparent {
+    display: flex;
+    
+}
+
+.pricing {
+    background: aliceblue;
+
+}
+div#prione {
+    background: lightcyan;
+}
+div#pritwo {
+    background: lightgrey;
+}
+div#prithree {
+    background:lightblue;
+}
+
+
+.pricing h2 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 57px;
+    font-weight: 500;
+    padding-top: 34px;
+    padding-bottom: 30px;
+    color: darkblue;
+}
+
+div#prione h4 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 34px;
+    font-weight: 500;
+    background: black;
+    color: white;
+    height: 46px;
+    border: 1px solid white;
+}
+
+div#pritwo h4 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 34px;
+    font-weight: 500;
+    background: black;
+    color: white;
+    height: 46px;
+    border: 1px solid white;
+}
+div#prithree h4 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 34px;
+    font-weight: 500;
+    background: black;
+    color: white;
+    height: 46px;
+    border: 1px solid white;
+}
+
+div#prione p {
+    font-size: 15px;
+    font-family: cursive;
+    line-height: 32px;
+    width: 89%;
+    padding-left: 28px;
+}
+div#pritwo p {
+    font-size: 15px;
+    font-family: cursive;
+    line-height: 32px;
+    width: 89%;
+    padding-left: 28px;
+}
+div#prithree p {
+    font-size: 15px;
+    font-family: cursive;
+    line-height: 32px;
+    width: 89%;
+    padding-left: 28px;
+}
+
+ul.pri1 {
+    list-style: gurmukhi;
+    width: 89%;
+    padding-left: 50px;
+}
+ul.pri2 {
+    list-style: gurmukhi;
+    width: 89%;
+    padding-left: 50px;
+}
+ul.pri3 {
+    list-style: gurmukhi;
+    width: 89%;
+    padding-left: 50px;
+}
+
+ul.pri1 li {
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+ul.pri2 li {
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+ul.pri3 li {
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+div#prione h3 {
+    font-size: 36px;
+    font-family: cursive;
+    padding-top: 26px;
+    color: #49496a;
+    padding-left: 67px;
+    padding-top: 215px;
+}
+div#pritwo h3 {
+    font-size: 36px;
+    font-family: cursive;
+    padding-top: 26px;
+    color: #49496a;
+    padding-left: 67px;
+    padding-top: 170px;
+}
+
+div#prithree h3 {
+    font-size: 36px;
+    font-family: cursive;
+    padding-top: 26px;
+    color: #49496a;
+    padding-left: 67px;
+}
+
+
+button.price1 {
+    width: 46%;
+    height: 49px;
+    border-radius: 28px;
+    cursor: pointer;
+    color: black;
+    background: #ec5b5b;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 19px;
+    margin-left: 94px;
+    margin-bottom: 60px;
+}
+
+
+
+button.price2 {
+    width: 46%;
+    height: 49px;
+    border-radius: 28px;
+    cursor: pointer;
+    color: black;
+    background: #ec5b5b;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 19px;
+    margin-left: 94px;
+    margin-bottom: 60px;
+}
+
+button.price3 {
+    width: 46%;
+    height: 49px;
+    border-radius: 28px;
+    cursor: pointer;
+    color: black;
+    background: #ec5b5b;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 19px;
+    margin-left: 94px;
+    margin-bottom: 60px;
+}
+button.price1:hover{
+    background: yellow;
+
+}
+button.price2:hover{
+    background: yellow;
+
+}
+button.price3:hover{
+    background: yellow;
+
+}

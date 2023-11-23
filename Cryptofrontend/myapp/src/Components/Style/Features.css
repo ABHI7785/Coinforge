@@ -1,0 +1,71 @@
+img.card-img-top.feaimg {
+    width: 286px;
+    height: 300px;
+}
+
+.feature_sec {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 86px;
+    padding-top: 64px;
+    padding-left: 120px;
+}
+  
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+  
+  
+  .ctite.card-title.h5 {
+    font-family: cursive;
+    font-weight: 600;
+    color: darkblue;
+    text-align: center;
+}
+  
+  
+  .card-text {
+    font-size: 1rem; 
+    color: #333; 
+  }
+  
+ 
+  .feaimg {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+  }
+  
+  
+  .card:hover {
+    transform: scale(1.05); 
+    transition: transform 0.3s ease; 
+    background-color: rgb(40, 224, 244);
+  }
+
+
+  .main h4 {
+    padding-top: 55px;
+    font-size: 64px;
+    color: cadetblue;
+    font-family: cursive;
+    font-weight: 600;
+    text-align: center;
+}
+
+p.ctext.card-text {
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: 600;
+    color: darkgreen;
+    line-height: 22px;
+}
+
+.main {
+    background: aliceblue;
+}
+  

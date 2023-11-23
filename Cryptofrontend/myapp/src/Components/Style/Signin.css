@@ -1,0 +1,107 @@
+form.signup {
+    width: 50%;
+    background:#d6bcc9;
+    position: absolute;
+    right: 325px;
+    top: 200px;
+    height: 426px;
+}
+.signup {
+    background: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+}
+  
+  .form-outline .form-control {
+    min-height: auto;
+    padding-top: 0.32rem;
+    padding-bottom: 0.32rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border: 0;
+    background:white !important;
+    transition: all .2s linear;
+  }
+
+  .form-outline {
+    position: relative;
+    width: 100%;
+    top: 11px;
+}
+  
+
+
+.sigup {
+    background-image: url(https://images.pexels.com/photos/6770775/pexels-photo-6770775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1263px;
+    height: 640px;
+    position: relative;
+}
+.sigup h2 {
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    font-family: cursive;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.sigup h4 {
+    font-size: 32px;
+    text-align: center;
+    color: aliceblue;
+    font-family: cursive;
+    padding-top: 12px;
+}
+
+.form-label {
+    font-size: 18px;
+    color: #333;
+}
+.form-control {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.cta8 {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button.cta8 {
+    width: 68%;
+    border-radius: 10px;
+    font-family: cursive;
+    background: black;
+    color: brown;
+    font-weight: 800;
+    font-size: 22px;
+}
+.icon {
+    font-size: 24px;
+    margin-right: 10px;
+    color: #007BFF;
+}
+
+.icon:hover {
+    color: #0056b3; 
+}
+.text-center p {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+button.cta8:hover {
+    background-color: #8fb3d9;
+}

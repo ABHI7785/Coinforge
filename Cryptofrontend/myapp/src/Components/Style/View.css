@@ -1,0 +1,81 @@
+.view.card {
+    width: 50%;
+    position: absolute;
+    left: 298px;
+    top: 127px;
+    background: black;
+}
+
+img.card-img-top.viewimage {
+    width: 300px;
+    height: 300px;
+    margin-left: 188px;
+    margin-top: 42px;
+}
+
+.viewcoin h3 {
+    font-size: 49px;
+    text-align: center;
+    padding-top: 32px;
+    font-family: system-ui;
+    color: blueviolet;
+}
+
+.viewcoin {
+    height: 880px;
+}
+
+button.ctabuy {
+    width: 19%;
+    height: 53px;
+    border-radius: 26px;
+    border: 1px solid white;
+    background: gold;
+    font-size: 18px;
+    font-family: cursive;
+    margin-bottom: 20px;
+    margin-left: 362px;
+}
+
+button.ctabuyy{
+
+    width: 19%;
+    height: 53px;
+    border-radius: 26px;
+    border: 1px solid white;
+    background: gold;
+    font-size: 18px;
+    font-family: cursive;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.instruu h4 {
+    color: aqua;
+    font-size: 29px;
+    font-family: cursive;
+    padding-top: 30px;
+    padding-left: 62px;
+    font-weight: 800;
+}
+
+
+.buycardd.card {
+    margin-top: 140px;
+}
+
+
+button.purchasee {
+    width: 47%;
+    height: 51px;
+    font-family: cursive;
+    font-weight: 700;
+    background: darkorange;
+    color: aliceblue;
+    border-radius: 25px;
+    border: 1px solid;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 39px;
+    margin-bottom: 18px;
+}

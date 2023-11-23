@@ -1,0 +1,41 @@
+.sidebar {
+    background: black;
+    width: 56%;
+    height: 650px;
+    line-height: 37px;
+    transition: background 0.3s; 
+}
+
+.sidebar:hover {
+    background: #885de5; 
+}
+
+.sidebar-header h3 {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: fantasy;
+    color: aqua;
+    letter-spacing: 2px;
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    transition: color 0.3s; /* Add transition for text color change on hover */
+}
+
+.sidebar-header h3:hover {
+    color: rgb(80, 68, 243); 
+}
+
+span.sidebar-text {
+    font-size: 22px;
+    font-weight: 500;
+    font-family: fantasy;
+    color: antiquewhite;
+    padding-left: 17px;
+    line-height: 64px;
+    transition: color 0.3s; 
+}
+
+span.sidebar-text:hover {
+    color: #e62e2e; 
+}

@@ -1,0 +1,79 @@
+table.usertab.table.table-striped.table-bordered.table-hover {
+    width: 70%;
+    margin-top: 35px;
+    margin-left: 192px;
+    background: aliceblue;
+    font-size: 17px;
+    font-family: monospace;
+}
+
+h4.userta {
+    text-align: center;
+    font-size: 41px;
+    font-family: inherit;
+    font-weight: 400;
+    color: darkslateblue;
+    padding-top: 36px;
+}
+.inputtt input {
+    background: black;
+    color: antiquewhite;
+    width: 217px;
+    height: 51px;
+    font-size: 26px;
+    font-family: cursive;
+    text-align: center;
+    border-radius: 9px;
+}
+
+.inputtt {
+    margin-left: 204px;
+    margin-top: 35px;
+}
+
+.inputtt h6 {
+    text-align: center;
+    font-size: 29px;
+    color: darkviolet;
+    font-family: cursive;
+    padding-right: 216px;
+    padding-bottom: 24px;
+}
+
+button.ctap {
+    width: 23%;
+    margin-top: 30px;
+    text-align: center;
+    height: 51px;
+    border-radius: 8px;
+    background: black;
+    color: antiquewhite;
+    font-size: 26px;
+    font-family: cursive;
+    margin-bottom: 36px;
+    margin-left: 506px;
+}
+
+button.ctap:hover{
+    background: cornflowerblue;
+}
+.usertable {
+    background: antiquewhite;
+}
+
+button.back {
+    width: 12%;
+    height: 47px;
+    border-radius: 10px;
+    background: black;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 581px;
+    margin-bottom: 30px;
+}
+
+button.back:hover{
+    background:rgb(156, 73, 239);
+}

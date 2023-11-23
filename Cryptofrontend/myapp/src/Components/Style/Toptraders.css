@@ -1,0 +1,106 @@
+img.imgg {
+    width: 100%;
+    height: 271px;
+    border-radius: 11px;
+}
+
+
+
+
+.carousel-indicators {
+    display: none;
+}
+
+
+  
+  
+  .imgg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slick-slide {
+    padding: 15px;
+    transition: all 0.3s;
+  }
+  
+  .slick-slide:hover {
+    transform: scale(1.05);
+    transition: all 0.3s;
+  }
+  
+  .carousel-caption#caroutop {
+    text-align: center;
+    position: unset;
+}
+  
+
+  
+  
+.nameee {
+    font-size: 18px;
+    font-weight: bold;
+    color: #271111;
+    font-family: monospace;
+}
+
+
+.exp {
+    font-size: 15px;
+    color: #666;
+    font-family: cursive;
+}
+
+
+.retur {
+    font-size: 17px;
+    font-weight: 500;
+    color: #4e4948;
+}
+
+
+.specialization {
+    font-size: 14px;
+    color: #999;
+}
+
+
+.imgg {
+    width: 100%;
+    height: 271px;
+    border-radius: 11px;
+}
+
+
+.slick-slide {
+    padding: 15px;
+    transition: all 0.3s;
+}
+
+
+.slick-slide:hover {
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
+
+
+.carousel-caption#caroutop {
+    text-align: center;
+    position: unset;
+}
+
+
+.Top-traders {
+    width: 97%;
+    padding-left: 44px;
+}
+
+.Top-traders h2 {
+    font-size: 52px;
+    font-family: monospace;
+    color: darkslateblue;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 56px;
+    padding-bottom: 19px;
+}

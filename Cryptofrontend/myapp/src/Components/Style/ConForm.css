@@ -1,0 +1,30 @@
+form.conform {
+    width: 55%;
+    background: blanchedalmond;
+    height: 417px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+button.ctaconf.btn.btn-primary {
+    width: 45%;
+    height: 56px;
+    border-radius: 28px;
+    background: rebeccapurple;
+    color: cornsilk;
+    font-family: sans-serif;
+    margin-top: 38px;
+    margin-left: 150px;
+}
+
+.contactform h4 {
+    text-align: center;
+    font-size: 37px;
+    font-family: fantasy;
+    padding-top: 34px;
+    color: darkslateblue;
+}
+label.form-label {
+    font-family: cursive;
+    font-size: 23px;
+    color: blueviolet;
+}

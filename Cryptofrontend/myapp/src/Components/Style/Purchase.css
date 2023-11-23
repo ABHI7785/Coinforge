@@ -1,0 +1,59 @@
+.purcahse-main h1 {
+    text-align: center;
+    font-size: 46px;
+    font-family: cursive;
+    padding-top: 32px;
+    color: chocolate;
+    font-weight: 600;
+}
+.purcahse-main {
+    background: darkslateblue;
+}
+
+ul.instru li {
+    color: sandybrown;
+    font-size: 19px;
+    list-style: circle;
+    font-family: cursive;
+    line-height: 42px;
+}
+.instruu ul {
+    padding-left: 78px;
+}
+
+button.ctaterm {
+    width: 19%;
+    height: 47px;
+    background: yellowgreen;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-left: 498px;
+    margin-top: 14px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
+ul.termc {
+    list-style: circle;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 37px;
+    color: darkgreen;
+    padding-left: 60px;
+}
+
+label.labell {
+    margin-left: 452px;
+    font-size: 22px;
+    font-family: cursive;
+    color: black;
+    margin-bottom: 36px;
+    margin-top: 19px;
+}
+
+.termss h2 {
+    text-align: center;
+    font-size: 25px;
+    color: antiquewhite;
+    font-family: cursive;
+}

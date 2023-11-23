@@ -1,0 +1,44 @@
+.termscon {
+    background: black;
+}
+
+ul.termc {
+    list-style: circle;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 37px;
+    color: lightblue;
+    padding-left: 60px;
+}
+.termscon h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    padding-top: 38px;
+    padding-bottom: 21px;
+    color: aliceblue;
+}
+
+label.labell {
+    margin-left: 410px;
+    font-size: 24px;
+    font-family: cursive;
+    color: antiquewhite;
+    margin-bottom: 36px;
+    margin-top: 19px;
+}
+
+
+button.ctacon {
+    width: 15%;
+    height: 54px;
+    border-radius: 31px;
+    border: 1px solid wheat;
+    font-size: 24px;
+    font-family: cursive;
+    margin-left: 532px;
+    background: lightsteelblue;
+    color:black;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}

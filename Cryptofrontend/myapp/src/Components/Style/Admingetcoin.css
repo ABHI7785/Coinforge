@@ -1,0 +1,52 @@
+.admincoin h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    font-family: fantasy;
+    padding-top: 43px;
+    padding-bottom: 46px;
+    color: aqua;
+}
+
+.admincoin {
+    background: cornflowerblue;
+    height: 635px;
+}
+
+table.tableadmin.table {
+    width: 90%;
+    background: antiquewhite;
+    font-family: fantasy;
+    font-size: 14px;
+    height: 184px;
+    border: 1px solid rosybrown;
+    margin-left:-27px;
+    transition: background-color 0.3s;
+}
+.col-9 h3 {
+    font-size: 45px;
+    font-family: fantasy;
+    color: cornflowerblue;
+    padding-left: 161px;
+    padding-top: 38px;
+    padding-bottom: 30px;
+}
+
+ul.pagination.justify-content-center.paginationBttns {
+    font-family: fantasy;
+    font-size: 35px;
+    padding-right: 146px;
+    letter-spacing: 18px;
+}
+
+.adminsec {
+    background: lightpink;
+}
+table.tableadmin.table:hover {
+    background: lightblue; 
+}
+
+table.tableadmin.table th {
+    font-size: 16px;
+    color: darkred;
+}
